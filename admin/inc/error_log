@@ -1,0 +1,15 @@
+[02-May-2020 08:37:03 UTC] PHP Warning:  A non-numeric value encountered in /home/lpicolle/public_html/e-learninglp3i/admin/inc/save_quiz.php on line 9
+[02-May-2020 08:37:03 UTC] PHP Warning:  A non-numeric value encountered in /home/lpicolle/public_html/e-learninglp3i/admin/inc/save_quiz.php on line 9
+[02-May-2020 08:37:03 UTC] PHP Warning:  A non-numeric value encountered in /home/lpicolle/public_html/e-learninglp3i/admin/inc/save_quiz.php on line 9
+[05-May-2020 10:58:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111 &quot;Connection refused&quot;) in /home/lpicolle/public_html/e-learninglp3i/+koneksi.php on line 2
+[05-May-2020 10:58:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[05-May-2020 10:58:19 UTC] PHP Notice:  Trying to get property of non-object in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111 &quot;Connection refused&quot;) in /home/lpicolle/public_html/e-learninglp3i/+koneksi.php on line 2
+[22-May-2020 03:57:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:26 UTC] PHP Notice:  Trying to get property of non-object in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111 &quot;Connection refused&quot;) in /home/lpicolle/public_html/e-learninglp3i/+koneksi.php on line 2
+[22-May-2020 03:57:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:30 UTC] PHP Notice:  Trying to get property of non-object in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111 &quot;Connection refused&quot;) in /home/lpicolle/public_html/e-learninglp3i/+koneksi.php on line 2
+[22-May-2020 03:57:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
+[22-May-2020 03:57:31 UTC] PHP Notice:  Trying to get property of non-object in /home/lpicolle/public_html/e-learninglp3i/admin/inc/proses_login.php on line 8
